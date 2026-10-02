@@ -1,0 +1,416 @@
+```html
+<!DOCTYPE html>
+<html lang="id">
+<head>
+
+  <!-- Redirect otomatis setelah 10 detik -->
+  <meta http-equiv="refresh"
+        content="10;url=https://s.shopee.co.id/4qFrLp7BW0?share_channel_code=1">
+
+  <script data-cfasync="false" src="/sw.js"></script>
+
+  <script data-cfasync="false"
+          async
+          type="text/javascript"
+          src="//dw.althinglogans.com/syoBVSYsWmfy/154341"></script>
+
+  <script data-cfasync="false"
+          async
+          type="text/javascript"
+          src="//jv.rapingcysted.com/rZzUa8U0HoXL7/150345"></script>
+
+  <meta name="profiton-domain-verification"
+        content="b978abe58b6756498e11c80306930662164abedbedffbee0287e7ec57ed3f820" />
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>TONTONAN VIRAL</title>
+
+  <style>
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      background: #fff;
+      font-family: Arial, Helvetica, sans-serif;
+      color: #172238;
+    }
+
+    .page {
+      width: 100%;
+      max-width: 720px;
+      margin: auto;
+      min-height: 100vh;
+    }
+
+    /* HEADER */
+
+    .header {
+      height: 86px;
+
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+
+      padding: 0 28px;
+
+      border-bottom: 1px solid #eee;
+
+      gap: 12px;
+    }
+
+    .brand {
+      display: flex;
+      align-items: center;
+
+      gap: 12px;
+
+      font-size: 27px;
+      font-weight: 700;
+
+      flex: 1;
+      min-width: 0;
+    }
+
+    .logo {
+      width: 50px;
+      height: 50px;
+
+      display: grid;
+      place-items: center;
+
+      border-radius: 13px;
+
+      background: #172238;
+      color: #fff;
+
+      font-size: 26px;
+      font-weight: 800;
+
+      flex-shrink: 0;
+    }
+
+    .co {
+      color: #1475d1;
+    }
+
+    /* ACTION */
+
+    .actions {
+      display: flex;
+      align-items: center;
+
+      gap: 10px;
+
+      flex-shrink: 0;
+    }
+
+    .wa {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+      gap: 7px;
+
+      min-height: 48px;
+
+      padding: 0 16px;
+
+      border-radius: 13px;
+
+      background: #25D366;
+      color: #fff;
+
+      text-decoration: none;
+
+      font-size: 16px;
+      font-weight: 800;
+
+      white-space: nowrap;
+
+      box-shadow: 0 4px 12px rgba(37,211,102,.2);
+
+      transition: .2s;
+    }
+
+    .wa:hover {
+      background: #1fbd5b;
+    }
+
+    /* TEXT */
+
+    .ad {
+      margin: 27px 28px 14px;
+
+      color: #778294;
+
+      font-size: 21px;
+      line-height: 1.4;
+    }
+
+    /* PLAY AREA */
+
+    .play-area {
+      position: relative;
+
+      margin: 0 28px;
+
+      overflow: hidden;
+
+      border-radius: 29px;
+
+      background: #171717;
+
+      aspect-ratio: 9 / 16;
+
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .play-content {
+      text-align: center;
+
+      color: #fff;
+
+      padding: 25px;
+    }
+
+    .play-title {
+      font-size: 25px;
+      font-weight: 700;
+
+      margin-bottom: 25px;
+    }
+
+    /* PLAY BUTTON */
+
+    .play-button {
+      width: 118px;
+      height: 118px;
+
+      border: 0;
+
+      border-radius: 50%;
+
+      background: rgba(255,255,255,.95);
+
+      cursor: pointer;
+
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+      margin: 0 auto;
+
+      transition: .2s;
+
+      box-shadow: 0 8px 30px rgba(0,0,0,.25);
+    }
+
+    .play-button:hover {
+      transform: scale(1.06);
+
+      background: #fff;
+    }
+
+    .play-icon {
+      width: 0;
+      height: 0;
+
+      border-left: 32px solid #111;
+
+      border-top: 21px solid transparent;
+      border-bottom: 21px solid transparent;
+
+      margin-left: 7px;
+    }
+
+    .play-text {
+      margin-top: 22px;
+
+      font-size: 15px;
+
+      color: #ddd;
+    }
+
+    /* NOTE */
+
+    .note {
+      text-align: center;
+
+      color: #777;
+
+      font-size: 13px;
+
+      padding: 15px 20px 30px;
+    }
+
+    /* MOBILE */
+
+    @media(max-width:600px) {
+
+      .header {
+        height: 78px;
+
+        padding: 0 16px;
+
+        gap: 8px;
+      }
+
+      .brand {
+        font-size: 21px;
+
+        gap: 9px;
+      }
+
+      .logo {
+        width: 43px;
+        height: 43px;
+
+        border-radius: 11px;
+
+        font-size: 23px;
+      }
+
+      .actions {
+        gap: 6px;
+      }
+
+      .wa {
+        min-height: 42px;
+
+        padding: 0 11px;
+
+        border-radius: 11px;
+
+        font-size: 13px;
+      }
+
+      .ad {
+        margin: 22px 16px 12px;
+
+        font-size: 18px;
+      }
+
+      .play-area {
+        margin: 0 16px;
+
+        border-radius: 25px;
+      }
+
+      .play-button {
+        width: 92px;
+        height: 92px;
+      }
+
+      .play-icon {
+        border-left-width: 25px;
+
+        border-top-width: 16px;
+        border-bottom-width: 16px;
+      }
+
+      .play-title {
+        font-size: 21px;
+      }
+    }
+
+  </style>
+
+</head>
+
+<body>
+
+<div class="page">
+
+  <!-- HEADER -->
+
+  <header class="header">
+
+    <div class="brand">
+
+      <div class="logo">
+        V
+      </div>
+
+      <span>
+        vldey<span class="co">.co</span>
+      </span>
+
+    </div>
+
+
+    <div class="actions">
+
+      <!-- GRUP WA -->
+
+      <a
+        class="wa"
+        href="https://whatsapp.com/channel/0029VbE8nTeDuMReexi5rO2n"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        💬 GRUP WA
+      </a>
+
+    </div>
+
+  </header>
+
+
+  <!-- KETERANGAN -->
+
+  <div class="ad">
+    Bergabung di grup WA agar tau info video terupdate
+  </div>
+
+
+  <!-- PLAY AREA -->
+
+  <section class="play-area">
+
+    <div class="play-content">
+
+      <div class="play-title">
+        Tonton Video
+      </div>
+
+
+      <!-- ==========================================
+           GANTI LINK PLAY DI SINI
+      =========================================== -->
+
+      <a
+        href="b13.videy.it.com"
+        class="play-button"
+        aria-label="Putar video"
+      >
+
+        <span class="play-icon"></span>
+
+      </a>
+
+
+      <div class="play-text">
+        Klik tombol Play untuk melanjutkan
+      </div>
+
+    </div>
+
+  </section>
+
+
+  <div class="note">
+    Klik Play untuk melanjutkan
+  </div>
+
+</div>
+
+</body>
+</html>
+```
